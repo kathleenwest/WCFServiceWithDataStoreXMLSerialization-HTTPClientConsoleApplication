@@ -164,10 +164,10 @@ Note: Only the state data like field/properties are used for serialization/deser
 
 Check out the WCF DataContract modeling for each of the types of objects:
 
-PersonList: []
-Person: []
-Student: []
-Teacher: []
+PersonList: [https://github.com/kathleenwest/WCFServiceWithDataStoreXMLSerialization-HTTPClientConsoleApplication/blob/master/SchoolService/PersonList.cs]
+Person: [https://github.com/kathleenwest/WCFServiceWithDataStoreXMLSerialization-HTTPClientConsoleApplication/blob/master/SchoolService/Person.cs]
+Student: [https://github.com/kathleenwest/WCFServiceWithDataStoreXMLSerialization-HTTPClientConsoleApplication/blob/master/SchoolService/Student.cs]
+Teacher: [https://github.com/kathleenwest/WCFServiceWithDataStoreXMLSerialization-HTTPClientConsoleApplication/blob/master/SchoolService/Teacher.cs]
 
 DataStore (In Memory) Serialization and Deserialization
 
@@ -176,7 +176,7 @@ The school service has a backend DataStore where it serializes and deserializes 
 My serialization demo creates an XML file called "PersonData.xml" in a temporary directory (C:\Users\YourUserName\AppData\Local\Temp) on the user hard drive (this is a simple demo program, not production). If desired, a different data storage location can be specified in the code.
 
 To see a sample of what the XML looks like when it serializes the DataContract models, please reference this file here:
-[insert demo XML file]
+[https://github.com/kathleenwest/WCFServiceWithDataStoreXMLSerialization-HTTPClientConsoleApplication/blob/master/demo/PersonData.xml]
 
 The DataStore utility class holds a reference to the data store object that is deserialized into memory upon loading/starting of the service. If the temporary file does not exist, the service creates one. The service calls upon the DataStore utility class to retrieve the now in-memory database and do basic crud operations by reference to this database object in memory. After each create, update, or delete operation by the service, the service calls upon the utility DataStore class to save the in-memory database object to file by serialization. 
 
