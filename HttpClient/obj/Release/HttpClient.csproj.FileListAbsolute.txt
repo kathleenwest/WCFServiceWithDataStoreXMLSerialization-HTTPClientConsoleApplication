@@ -1,0 +1,7 @@
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\HttpClient\bin\Release\HttpClient.exe.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\HttpClient\bin\Release\HttpClient.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\HttpClient\bin\Release\HttpClient.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\HttpClient\obj\Release\HttpClient.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\HttpClient\obj\Release\HttpClient.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\HttpClient\obj\Release\HttpClient.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\HttpClient\obj\Release\HttpClient.pdb

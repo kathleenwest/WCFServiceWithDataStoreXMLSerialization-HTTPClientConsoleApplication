@@ -1,0 +1,14 @@
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Distributed Programming Using WCF, REST and the Web API\Labs\Lab2\Lab2Service\HttpClient\bin\Debug\HttpClient.exe.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Distributed Programming Using WCF, REST and the Web API\Labs\Lab2\Lab2Service\HttpClient\bin\Debug\HttpClient.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Distributed Programming Using WCF, REST and the Web API\Labs\Lab2\Lab2Service\HttpClient\bin\Debug\HttpClient.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Distributed Programming Using WCF, REST and the Web API\Labs\Lab2\Lab2Service\HttpClient\obj\Debug\HttpClient.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Distributed Programming Using WCF, REST and the Web API\Labs\Lab2\Lab2Service\HttpClient\obj\Debug\HttpClient.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Distributed Programming Using WCF, REST and the Web API\Labs\Lab2\Lab2Service\HttpClient\obj\Debug\HttpClient.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Distributed Programming Using WCF, REST and the Web API\Labs\Lab2\Lab2Service\HttpClient\obj\Debug\HttpClient.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\HttpClient\bin\Debug\HttpClient.exe.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\HttpClient\bin\Debug\HttpClient.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\HttpClient\bin\Debug\HttpClient.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\HttpClient\obj\Debug\HttpClient.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\HttpClient\obj\Debug\HttpClient.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\HttpClient\obj\Debug\HttpClient.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\WCFSOAPServiceWithDataStoreXMLSerialization&HTTPClientConsoleApplication\HttpClient\obj\Debug\HttpClient.pdb
